@@ -89,7 +89,7 @@ header li:last-child{margin-right: 0;}
 /* HERO */
 .Hero{
 	
-	background: url(../_imgs/hero.png);
+	background: url(hero.png);
 	background-size:cover;
 	min-height: 100vh;
 	color: #FFF;
